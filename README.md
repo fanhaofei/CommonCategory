@@ -1,0 +1,2 @@
+# CommonCategory
+开发中常用的一些有用的函数总结，例如NSString与时间戳转、URL与字符串转换、图片本地保存、UIView的Frame调用封装、字典安全取值等
